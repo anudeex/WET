@@ -1,6 +1,23 @@
 # WET
 Code of our paper - "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
 
+<div align="center">
+<img width="1150" alt="Screenshot 2024-08-26 at 17 07 08" src="https://github.com/user-attachments/assets/5ab91a7b-d999-41aa-89b4-e752ebf5e8d9">
+  
+**Overview of paraphrasing attack**
+</div>
+
+<br />
+
+
+<div align="center">
+<img width="1263" alt="Screenshot 2024-08-26 at 17 07 20" src="https://github.com/user-attachments/assets/bfc4cdb5-baa1-42e1-8a19-b22830e8e8c3">
+  
+**Overview of WET watermarking technique.**
+</div>
+<br />
+
+
 **arXiv (Pre-print) version: [link]()**
 
 ## Abstract
