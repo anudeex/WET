@@ -1,7 +1,7 @@
 # WET
 Code of our paper - "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
 
-**arXiv (Pre-print) version: [link]()**
+**arXiv (Pre-print) version: [link](https://arxiv.org/abs/2409.04459)**
 
 <br />
 
