@@ -32,4 +32,10 @@ Our code is based on the work of [WARDEN](https://github.com/anudeex/WARDEN)
 ## Citing
 
 ```
+@article{shetty2024wet,
+  title={WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks},
+  author={Shetty, Anudeex and Xu, Qiongkai and Lau, Jey Han},
+  journal={arXiv preprint arXiv:2409.04459},
+  year={2024}
+}
 ```
